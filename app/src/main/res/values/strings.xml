@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JSONPlaceholder</string>
+    <string name="posts">posts</string>
+    <string name="comments">comments</string>
+    <string name="retry">Retry</string>
+    <string name="name">Name</string>
+    <string name="comment">Comment</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+</resources>
